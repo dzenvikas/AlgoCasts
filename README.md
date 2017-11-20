@@ -1,2 +1,2 @@
 # AlgoCasts 
-Solutions in **JavaScript** and **Python**.
+Solutions in **JavaScript** and **Python**..
